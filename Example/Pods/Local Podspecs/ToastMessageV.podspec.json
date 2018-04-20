@@ -1,0 +1,22 @@
+{
+  "name": "ToastMessageV",
+  "version": "0.1.0",
+  "summary": "A short description of ToastMessageV.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ishusuvagia@gmail.com/ToastMessageV",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ishusuvagia@gmail.com": "mitu1742000@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/ishusuvagia@gmail.com/ToastMessageV.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ToastMessageV/Classes/**/*"
+}

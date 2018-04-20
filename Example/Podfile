@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ToastMessageV_Example' do
+  pod 'ToastMessageV', :path => '../'
+
+  target 'ToastMessageV_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

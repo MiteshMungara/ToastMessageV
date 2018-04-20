@@ -1,0 +1,16 @@
+PODS:
+  - ToastMessageV (0.1.0)
+
+DEPENDENCIES:
+  - ToastMessageV (from `../`)
+
+EXTERNAL SOURCES:
+  ToastMessageV:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ToastMessageV: 9065c1f3919493107b83f8e2dd9eed0f8491cfb1
+
+PODFILE CHECKSUM: 4f94385007b5642e18c28e4f08be5bad5f3747eb
+
+COCOAPODS: 1.4.0.beta.2
