@@ -32,6 +32,7 @@
 		22E0E6830C573A8DC658376F /* Pods-ToastMessageV_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ToastMessageV_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-ToastMessageV_Example/Pods-ToastMessageV_Example.release.xcconfig"; sourceTree = "<group>"; };
 		349F6C33F3640CD0540128C6 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		39A4C9E456E46DBBF79DE8D0 /* Pods_ToastMessageV_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ToastMessageV_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		48B7B25B208C72D9005C4939 /* ToastMessageV.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; path = ToastMessageV.podspec; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* ToastMessageV_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ToastMessageV_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACD51AFB9204008FA782 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -107,6 +108,7 @@
 				607FACD51AFB9204008FA782 /* AppDelegate.swift */,
 				607FACD71AFB9204008FA782 /* ViewController.swift */,
 				607FACD91AFB9204008FA782 /* Main.storyboard */,
+				48B7B25B208C72D9005C4939 /* ToastMessageV.podspec */,
 				607FACDC1AFB9204008FA782 /* Images.xcassets */,
 				607FACDE1AFB9204008FA782 /* LaunchScreen.xib */,
 				607FACD31AFB9204008FA782 /* Supporting Files */,
