@@ -28,11 +28,11 @@ ToastMessageV shows short time alert. Install library into project, Never have t
 s.author           = { 'Mitesh Mungara' => 'mitu1742000@gmail.com' }
   s.source           = { :git => 'https://github.com/ishusuvagia@gmail.com/ToastMessageV', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
-  
+
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'ToastMessageV/**/*'
-  
+  s.resources = 'ToastMessageV/Resources/*.xib'
   # s.resource_bundles = {
   #   'ToastMessageV' => ['ToastMessageV/Assets/*.png']
   # }
