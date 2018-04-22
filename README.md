@@ -22,7 +22,7 @@ pod 'ToastMessageV'
 
 ## Author
 
-ishusuvagia@gmail.com, mitu1742000@gmail.com
+ Mitesh Mungara Email:mitu1742000@gmail.com
 
 ## License
 
