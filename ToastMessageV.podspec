@@ -40,10 +40,10 @@ s.source           = { :git => 'https://github.com/MiteshMungara/ToastMessageV.g
 #s.resources = 'ToastMessageV/Resources/*.xib'
 s.ios.deployment_target = '8.0'
 
-s.source_files = 'ToastMessageV/Classes/**/*'
- s.resource_bundles = {
-   'ToastMessageV' => ['ToastMessageV/Assets/*.png']
- }
+    s.source_files = 'ToastMessageV/Classes/**/*'
+#s.resource_bundles = {
+#  'ToastMessageV' => ['ToastMessageV/Assets/*.png']
+#}
 
 # s.public_header_files = 'Pod/Classes/**/*.h'
 # s.frameworks = 'UIKit', 'MapKit'
