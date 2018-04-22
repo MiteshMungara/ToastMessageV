@@ -22,7 +22,7 @@ s.summary          = 'ToastMessageV shows short time alert.'
 #   * Think: What does it do? Why did you write it? What is the focus?
 #   * Try to keep it short, snappy and to the point.
 #   * Write the description between the DESC delimiters below.
-#   * Finally, don't worry about the indent, CocoaPods strips it!
+#   * Finally, don't w  orry about the indent, CocoaPods strips it!
 
 s.description      = <<-DESC
 ToastMessageV shows short time alert. Install library into project, Never have to write this generic code again.
