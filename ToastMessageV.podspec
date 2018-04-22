@@ -22,11 +22,12 @@ Pod::Spec.new do |s|
 ToastMessageV shows short time alert. Install library into project, Never have to write this generic code again.
                        DESC
 
-  s.homepage         = 'https://github.com/ishusuvagia@gmail.com/ToastMessageV'
+  s.homepage         = 'https://github.com/mitu1742000@gmail.com/ToastMessageV'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
     s.author           = { 'Mitesh Mungara' => 'mitu1742000@gmail.com' }
-  s.source           = { :git => 'https://github.com/mitu1742000@gmail.com/ToastMessageV.git', :tag => s.version.to_s }
+#s.source           = { :git => 'https://github.com/mitu1742000@gmail.com/ToastMessageV.git', :tag => s.version.to_s }
+s.source       = { :git => "https://github.com/mitu1742000@gmail.com/ToastMessageV.git", :commit => "0d6761feefccff1f7d8b7c7788ceb8e9cd1314ea" }
 
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
