@@ -33,7 +33,7 @@ s.homepage         = 'https://github.com/MiteshMungara/ToastMessageV'
 s.license          = { :type => 'MIT', :file => 'LICENSE' }
 s.author           = { 'Mitesh Mungara' => 'mitu1742000@gmail.com' }
 #{ 'ishusuvagia@gmail.com' => 'mitu1742000@gmail.com' }
-s.source           = { :git => 'https://github.com/ishusuvagia@gmail.com/ToastMessageV.git', :tag => s.version.to_s }
+s.source           = { :git => 'https://github.com/MiteshMungara/ToastMessageV.git', :tag => s.version.to_s }
 # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
 
@@ -42,7 +42,7 @@ s.ios.deployment_target = '8.0'
 
 s.source_files = 'ToastMessageV/Classes/**/*'
  s.resource_bundles = {
-   'ToastMessageV' => ['ToastMessageV/Classes/Resources/*.xib']
+   'ToastMessageV' => [''ToastMessageV/Assets/*.png'']
  }
 
 # s.public_header_files = 'Pod/Classes/**/*.h'
