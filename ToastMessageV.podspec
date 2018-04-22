@@ -40,7 +40,8 @@ s.source           = { :git => 'https://github.com/MiteshMungara/ToastMessageV.g
 #s.resources = 'ToastMessageV/Resources/*.xib'
 s.ios.deployment_target = '8.0'
 
-    s.source_files = 'ToastMessageV/Classes/**/*'
+s.source_files  = 'Classes/*.{h,m,swift}'
+#s.source_files = 'ToastMessageV/Classes/**/*'
 #s.resource_bundles = {
 #  'ToastMessageV' => ['ToastMessageV/Assets/*.png']
 #}
