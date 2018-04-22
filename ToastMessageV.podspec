@@ -26,7 +26,7 @@ ToastMessageV shows short time alert. Install library into project, Never have t
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
     s.author           = { 'Mitesh Mungara' => 'mitu1742000@gmail.com' }
-    s.source           = { :git => 'https://github.com/ishusuvagiya@gmail.com/ToastMessageV.git', :tag => s.version.to_s }
+    s.source           = { :git => 'https://github.com/MiteshMungara/ToastMessageV.git', :tag => s.version.to_s }
 #s.source       = { :git => "https://github.com/mitu1742000@gmail.com/ToastMessageV.git", :commit => "0d6761feefccff1f7d8b7c7788ceb8e9cd1314ea" }
 
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
