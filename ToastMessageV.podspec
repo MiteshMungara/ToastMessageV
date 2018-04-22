@@ -42,7 +42,7 @@ s.ios.deployment_target = '8.0'
 
 s.source_files = 'ToastMessageV/Classes/**/*'
  s.resource_bundles = {
-   'ToastMessageV' => [''ToastMessageV/Assets/*.png'']
+   'ToastMessageV' => ['ToastMessageV/Assets/*.png']
  }
 
 # s.public_header_files = 'Pod/Classes/**/*.h'
