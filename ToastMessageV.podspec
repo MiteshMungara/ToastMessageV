@@ -36,14 +36,14 @@ s.author           = { 'Mitesh Mungara' => 'mitu1742000@gmail.com' }
 s.source           = { :git => 'https://github.com/ishusuvagia@gmail.com/ToastMessageV.git', :tag => s.version.to_s }
 # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
- s.resources = 'ToastMessageV/Resources/*.xib'
+
+#s.resources = 'ToastMessageV/Resources/*.xib'
 s.ios.deployment_target = '8.0'
 
 s.source_files = 'ToastMessageV/Classes/**/*'
-
-# s.resource_bundles = {
-#   'ToastMessageV' => ['ToastMessageV/Assets/*.png']
-# }
+ s.resource_bundles = {
+   'ToastMessageV' => ['ToastMessageV/Classes/Resources/*.xib']
+ }
 
 # s.public_header_files = 'Pod/Classes/**/*.h'
 # s.frameworks = 'UIKit', 'MapKit'

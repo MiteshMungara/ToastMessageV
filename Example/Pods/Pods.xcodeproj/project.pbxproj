@@ -117,6 +117,17 @@
 			path = Resources;
 			sourceTree = "<group>";
 		};
+		48B7B25C208C76BA005C4939 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				48B7B23C208C533E005C4939 /* Resources */,
+				48146CEB208B0BCB00AD938F /* myView.swift */,
+				48146CED208B0BCB00AD938F /* Toast.swift */,
+				48146CEC208B0BCB00AD938F /* ToastView.swift */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
 		7DB346D0F39D3F0E887471402A8071AB = {
 			isa = PBXGroup;
 			children = (
@@ -224,10 +235,7 @@
 		E1117B7556CF19882A88689264C47AB8 /* ToastMessageV */ = {
 			isa = PBXGroup;
 			children = (
-				48B7B23C208C533E005C4939 /* Resources */,
-				48146CEB208B0BCB00AD938F /* myView.swift */,
-				48146CED208B0BCB00AD938F /* Toast.swift */,
-				48146CEC208B0BCB00AD938F /* ToastView.swift */,
+				48B7B25C208C76BA005C4939 /* Classes */,
 				BCD53ECDE6859AC74114EF84ECCB159D /* Support Files */,
 			);
 			name = ToastMessageV;
