@@ -32,9 +32,9 @@ s.author           = { 'Mitesh Mungara' => 'mitu1742000@gmail.com' }
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'ToastMessageV/**/*'
-  s.resources = 'ToastMessageV/Resources/*.xib'
+# s.resources = 'ToastMessageV/Resources/*.xib'
   # s.resource_bundles = {
-  #   'ToastMessageV' => ['ToastMessageV/Assets/*.png']
+  #   'ToastMessageV' => ['ToastMessageV/Resources/*.xib']
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
