@@ -31,7 +31,7 @@ s.author           = { 'Mitesh Mungara' => 'mitu1742000@gmail.com' }
   s.resources = 'ToastMessageV/Resources/*.xib'
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'ToastMessageV/Classes/**/*'
+  s.source_files = 'ToastMessageV/**/*'
   
   # s.resource_bundles = {
   #   'ToastMessageV' => ['ToastMessageV/Assets/*.png']
